@@ -1,5 +1,5 @@
 # TI-84 Programs
-This contains small TI-84 Programs I have written for my calculator, mostly for use in computer engineering classes.  Feel free to use these programs as you'd like.
+This contains small TI-84 programs I have written for my calculator, mostly for use in computer engineering classes.  Feel free to use these programs as you'd like.  (To install these programs, search for TI Connect online, and use that software to add them to your calculator.)
 ## DELTAWYE
 ### Project Status: Complete
 ### Language: TI BASIC
